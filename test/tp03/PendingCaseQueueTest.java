@@ -1,12 +1,12 @@
 package tp03;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertSame;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.Before;
 import org.junit.Test;
-
-import junit.framework.Assert;
-
 
 public class PendingCaseQueueTest {
 
@@ -30,16 +30,16 @@ public class PendingCaseQueueTest {
 	
 	
 	@Test
-	public void clearWithEmptyQueue() {
+	public void clearWithEmptyQueue() {	
 		this.folderQueue.clear();
-		assertEquals(this.folderQueue.getHead(),this.folderQueue.getTail());
+		assertEquals(this.folderQueue.getHead(),this.folderQueue.getTail(),0);
 	}
 	
 	@Test
 	public void clearWithNoEmptyQueue() {
 		this.folderQueue.addOne(folder1);
 		this.folderQueue.clear();
-		assertEquals(this.folderQueue.getHead(),this.folderQueue.getTail());
+		assertEquals(this.folderQueue.getHead(),this.folderQueue.getTail(),0);
 	}
 	
 	@Test

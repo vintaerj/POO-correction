@@ -2,6 +2,9 @@ package tp03;
 
 import java.util.Arrays;
 
+import tp03.PendingCase;
+
+
 public class PendingCaseQueue {
 
 	private PendingCase[] myQueue;
