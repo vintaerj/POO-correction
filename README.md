@@ -9,3 +9,5 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
   séparez-les de ceux qui demeurent **constants**.
   
 > Progammer une interface, non une implementation.
+
+> Préférer la composition à l'héritage.
