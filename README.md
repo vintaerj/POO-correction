@@ -7,3 +7,5 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
 
 > Identifiez les aspects de votre application qui **varient** et
   séparez-les de ceux qui demeurent **constants**.
+  
+> Progammer une interface, non une implementation.
