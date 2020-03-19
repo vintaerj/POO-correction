@@ -14,6 +14,8 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
 
 > Efforcer-vous de coupler faiblement les objets qui interagissent.
 
+> Les classes doivent être ouvertes à l'extension, mais fermées à la modification.
+
 # Stratégie
 
 > Le pattern **Stratégie** définit une famille d'algorithmes, encapsule chacun d'eux et les rends interchangeables.
