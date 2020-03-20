@@ -25,3 +25,8 @@ Stratégie permets à l'algorithme de varier indépendamment des clients qui l'u
 
 > Le pattern **Observateur** définit une relation entre objets de type un-à-plusieurs, de façon que,
 lorsque un objet change d'état, tous ceux qui en dépendent en soient notifiés et soient mis à jour automatiquement.
+
+# Décorateur
+
+> Le pattern Décorateur attache dynamiquement des responsabilités supplémentaires à un objet. Il fournit
+une alternative souple à la dérivation, pour étendre les fonctionnalités.
