@@ -16,6 +16,8 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
 
 > Les classes doivent être ouvertes à l'extension, mais fermées à la modification.
 
+> Dépendez d'abstractions. Ne dépendez pas de classes concrètes.
+
 # Stratégie (Strategy)
 
 > Le pattern **Stratégie** définit une famille d'algorithmes, encapsule chacun d'eux et les rends interchangeables.
