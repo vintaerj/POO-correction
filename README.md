@@ -30,9 +30,13 @@ lorsque un objet change d'état, tous ceux qui en dépendent en soient notifiés
 
 # Décorateur (Decorator)
 
-> Le pattern Décorateur attache dynamiquement des responsabilités supplémentaires à un objet. Il fournit
+> Le pattern **Décorateur** attache dynamiquement des responsabilités supplémentaires à un objet. Il fournit
 une alternative souple à la dérivation, pour étendre les fonctionnalités.
 
 # Fabriquation (Factory Method)
 
 > Le pattern **Fabrication** définit une interface pour la création d'un objet, mais en laissant au sous-classes le choix des classes à instancier. Fabrication permet à une classe de déléguer l'instanciation à des sous classes.
+
+# Singleton
+
+> Le pattern **Singleton** garantit qu'une classe n'a qu'une seule et fournit un point d'accés globale à cette instance.
