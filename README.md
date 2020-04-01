@@ -39,4 +39,4 @@ une alternative souple à la dérivation, pour étendre les fonctionnalités.
 
 # Singleton
 
-> Le pattern **Singleton** garantit qu'une classe n'a qu'une seule et fournit un point d'accés globale à cette instance.
+> Le pattern **Singleton** garantit qu'une classe n'a qu'une seule instance et fournit un point d'accés globale à cette instance.
