@@ -40,3 +40,7 @@ une alternative souple à la dérivation, pour étendre les fonctionnalités.
 # Singleton
 
 > Le pattern **Singleton** garantit qu'une classe n'a qu'une seule instance et fournit un point d'accés globale à cette instance.
+
+# Commande (Command)
+
+> Le pattern **Commande** encapsule une requête comme un objet, autorisant ainsi le paramétrage des clients par différentes requêtes, files d'attente et récapitulatifs de requêtes, et de plus, permettant la réversibilité des opérations.
