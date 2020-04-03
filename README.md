@@ -44,3 +44,7 @@ une alternative souple à la dérivation, pour étendre les fonctionnalités.
 # Commande (Command)
 
 > Le pattern **Commande** encapsule une requête comme un objet, autorisant ainsi le paramétrage des clients par différentes requêtes, files d'attente et récapitulatifs de requêtes, et de plus, permettant la réversibilité des opérations.
+
+# Adaptateur (Adapter)
+
+> Le pattern **Adaptateur** convertit l'interface d'une classe en une autre comforme à celle du client. L'Adaptateur permet à des classes de collaborer, alors qu'elle n'auraient pas pu le faire du fait d'interfaces incompatibles.
