@@ -47,4 +47,4 @@ une alternative souple à la dérivation, pour étendre les fonctionnalités.
 
 # Adaptateur (Adapter)
 
-> Le pattern **Adaptateur** convertit l'interface d'une classe en une autre comforme à celle du client. L'Adaptateur permet à des classes de collaborer, alors qu'elle n'auraient pas pu le faire du fait d'interfaces incompatibles.
+> Le pattern **Adaptateur** convertit l'interface d'une classe en une autre conforme à celle du client. L'Adaptateur permet à des classes de collaborer, alors qu'elle n'auraient pas pu le faire du fait d'interfaces incompatibles.
