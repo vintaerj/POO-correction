@@ -18,6 +18,8 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
 
 > Dépendez d'abstractions. Ne dépendez pas de classes concrètes.
 
+> Ne parler pas aux inconnus - ne parlez qu'a vos amis immédiats.
+
 # Stratégie (Strategy)
 
 > Le pattern **Stratégie** définit une famille d'algorithmes, encapsule chacun d'eux et les rends interchangeables.
