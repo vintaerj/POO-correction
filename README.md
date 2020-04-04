@@ -20,6 +20,8 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
 
 > Ne parler pas aux inconnus - ne parlez qu'a vos amis immédiats. (**Loi de Déméter**)
 
+> Ne nous appelez pas, nous vous appelerons. (**Principe d'Hollywood**)
+
 # Stratégie (Strategy)
 
 > Le pattern **Stratégie** définit une famille d'algorithmes, encapsule chacun d'eux et les rends interchangeables.
