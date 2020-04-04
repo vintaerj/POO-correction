@@ -55,3 +55,7 @@ une alternative souple à la dérivation, pour étendre les fonctionnalités.
 
 > Le pattern **Façade** fournit une interface unifiée à l'ensemble des interfaces d'un sous-système. La façade fournit une interface de plus
 haut niveau qui rend le sous-système plus facile à utiliser.
+
+# Patron de méthode (Template Method)
+
+> Le pattern **Patron de méthode** définit le squelette d'un algorithm dans une méthode, en déléguant certaines étapes aux sous-classes. Patron de méthode permet aux sous-classes de redéfinir certaines étapes d'un algorithme sans modifier la structure de celui-ci.
