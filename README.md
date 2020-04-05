@@ -67,3 +67,8 @@ haut niveau qui rend le sous-système plus facile à utiliser.
 # Itérateur (Iterator)
 
 > Le pattern **Itérateur** fournit un moyen d'accèder en séquence à un objet de type agrégat sans révéler sa représentation sous-jacente.
+
+# Composite
+
+> Le pattern **Composite** compose des objets en des structures arborescentes pour représenter des hiéarchies composant/composé. Il permet
+aux clients de traiter de la même façon les objets individuels et les combinaisons de ceux-ci.
