@@ -61,3 +61,7 @@ haut niveau qui rend le sous-système plus facile à utiliser.
 # Patron de méthode (Template Method)
 
 > Le pattern **Patron de méthode** définit le squelette d'un algorithm dans une méthode, en déléguant certaines étapes aux sous-classes. Patron de méthode permet aux sous-classes de redéfinir certaines étapes d'un algorithme sans modifier la structure de celui-ci.
+
+# Itérateur (Iterator)
+
+> Le pattern **Itérateur** fournit un moyen d'accèder en séquence à un objet de type agrégat sans révéler sa représentation sous-jacente.
