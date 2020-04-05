@@ -22,6 +22,8 @@ Il s'agit d'un dépot contenant les corrections (subjectives) de TP de POO à l'
 
 > Ne nous appelez pas, nous vous appelerons. (**Principe d'Hollywood**)
 
+> Une classe ne doit avoir qu'une seule raison de changer.
+
 # Stratégie (Strategy)
 
 > Le pattern **Stratégie** définit une famille d'algorithmes, encapsule chacun d'eux et les rends interchangeables.
